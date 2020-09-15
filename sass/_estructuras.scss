@@ -1,0 +1,41 @@
+/*estructura aplicada en todas las secciones */
+.col-sm-6{
+    font-family: 'Roboto'; 
+    padding: 20px;   
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 60px!important;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 60px!important;
+}
+.row {
+    margin-right:0px;
+    margin-left: 0px;
+}
+.carousel-inner {
+    height: 400px;
+}
+#carousel {
+    padding-top: 90px;
+}
+.intro {
+    padding-top: 100px;
+    margin-bottom: 50px;
+    height: 300px;
+    font-family: 'Roboto'; 
+    p{
+        width: 900px;
+    }
+}
+.descripcion {
+    width: 300px;
+}

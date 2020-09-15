@@ -1,0 +1,20 @@
+.navbar {
+    background-color: $color-nav!important;
+    font-family: 'Amiri', serif;
+    padding: 15px;
+    a {
+    color:$color-nav-item!important;
+    text-transform: uppercase;
+    }
+}
+.navbar-brand{
+    font-size: 1rem;
+    letter-spacing: 3px;
+}
+.nav-item{
+    padding: 0px 5px 0px 5px;
+    align-items: center;    
+}
+.navbar-toggler-icon {
+    color: $color-nav-item !important;
+}
