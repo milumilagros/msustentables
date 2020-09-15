@@ -28,12 +28,12 @@
     padding-top: 90px;
 }
 .intro {
-    padding-top: 100px;
+    padding-top: 50px;
     margin-bottom: 50px;
     height: 300px;
     font-family: 'Roboto'; 
     p{
-        width: 900px;
+        width: 75%;
     }
 }
 .descripcion {
@@ -42,8 +42,8 @@
 .breadcrumb {
     padding-top: 95px;
     width: 100%;
-    background-color: #e6d3d1cb;
+    background-color:$color-nav;
     a {
-        color:$color-nav;
+        color:$color-button-card;
     }
 }
