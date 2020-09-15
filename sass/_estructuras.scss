@@ -39,3 +39,11 @@
 .descripcion {
     width: 300px;
 }
+.breadcrumb {
+    padding-top: 95px;
+    width: 100%;
+    background-color: #e6d3d1cb;
+    a {
+        color:$color-nav;
+    }
+}

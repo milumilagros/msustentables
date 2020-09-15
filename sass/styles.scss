@@ -1,10 +1,11 @@
 /*variables*/
-$color-nav:#CF9087;
-$color-nav-item:white;
+$color-nav:white;
+$color-nav-item:#593131;
 $color-button-card: #CAAFAB;
 $color-h2: black;
 $color-texto: black;
 $color-hover:#593131;
+/* color guardado #CF9087 */
 
 /*importan desde archivos especificos*/
 @import 'estructuras';
@@ -126,7 +127,5 @@ h2, h3 {
     height: 30vw;
     object-fit: cover;
 }
-.breadcrumb {
-    margin-top: 300px;
-}
+
 
